@@ -34,9 +34,9 @@ while improving my programming skills.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600">
 
-### 🎮 Check Out My Game
+### 🐍 Snake Game
 
 [▶️ **PLAY GAME**](LINK_GAME_KAMU)
 
