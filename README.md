@@ -20,13 +20,25 @@ while improving my programming skills.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- ☕ Java
-- 🧠 Algorithm & Problem Solving
-- 📝 Pseudocode
-- 🔀 Flowchart
-- 🐙 Git & GitHub
+<p align="center">
+  <a href="https://www.java.com/">
+    <img src="https://cdn.simpleicons.org/openjdk" width="50" alt="Java"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.simpleicons.org/git" width="50" alt="Git"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://cdn.simpleicons.org/github" width="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.simpleicons.org/visualstudiocode" width="50" alt="VS Code"/>
+  </a>
+</p>
 
 ---
 
@@ -46,8 +58,20 @@ while improving my programming skills.
 
 ## 📫 Contact Me
 
-📧 **Email:** emailkamu@gmail.com
-
-💻 **GitHub:** [@username](https://github.com/username)
-
-📷 **Instagram:** [@username](https://instagram.com/username)
+<p align="center">
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="50" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/USERNAME">
+    <img src="https://cdn.simpleicons.org/github" width="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://cdn.simpleicons.org/instagram" width="50" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://cdn.simpleicons.org/linkedin" width="50" alt="LinkedIn"/>
+  </a>
+</p>
