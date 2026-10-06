@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kevin!
 
-<img src="GIF_PENGENALAN_KAMU" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
-### 💻 Informatics Student
+### 💻 Informatics Student | Beginner Programmer
 
 </div>
 
@@ -15,7 +15,7 @@
 I'm an Informatics student who is currently learning programming,
 algorithms, and software development.
 
-I enjoy learning new technologies and building projects
+I enjoy learning new technologies and building small projects
 while improving my programming skills.
 
 ---
@@ -34,11 +34,11 @@ while improving my programming skills.
 
 <div align="center">
 
-<img src="GIF_GAME_KAMU" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 ### 🎮 Check Out My Game
 
-[**▶️ PLAY GAME**](LINK_GAME_KAMU)
+[▶️ **PLAY GAME**](LINK_GAME_KAMU)
 
 </div>
 
