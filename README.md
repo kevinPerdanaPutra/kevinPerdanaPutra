@@ -42,7 +42,7 @@ while improving my programming skills.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1000">
 
 ### 🐍 Snake Game
 
