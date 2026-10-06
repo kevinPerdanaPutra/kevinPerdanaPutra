@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kevin!
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://giphy.com/gifs/blue-archive-shiroko-sunaookami-HoSGKL4eLtYQYAEIcG" width="400">
 
 ### 💻 Informatics Student | Beginner Programmer
 
