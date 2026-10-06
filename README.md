@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Kevin Perdana Putra
+# 👋 Hi, I'm Kevin!
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+### 💻 Informatics Student
 
-### 💻 Informatics Student | Beginner Programmer
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -12,9 +12,11 @@
 
 ## 👨‍💻 About Me
 
-Halo! Saya **Kevin Perdana Putra**, mahasiswa Informatika yang sedang belajar dan mengembangkan kemampuan di bidang pemrograman dan teknologi.
+I'm an Informatics student who is currently learning programming,
+algorithms, and software development.
 
-Saya tertarik mempelajari cara membuat program, menyelesaikan masalah menggunakan algoritma, dan terus mengembangkan kemampuan coding.
+I enjoy learning new technologies and building small projects
+while improving my programming skills.
 
 ---
 
@@ -28,26 +30,16 @@ Saya tertarik mempelajari cara membuat program, menyelesaikan masalah menggunaka
 
 ---
 
-## 🎮 My Game
+## 🎮 Game
 
-🎮 **Check out my game!**
-
-👉 [**PLAY GAME**](LINK_GAME_KAMU)
+🎮 [Play My Game](LINK_GAME_KAMU)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 **Email:** [emailkamu@gmail.com](mailto:emailkamu@gmail.com)
+📧 Email: `emailkamu@gmail.com`
 
-💻 **GitHub:** [@usernamekamu](https://github.com/usernamekamu)
+💻 GitHub: [@username](https://github.com/username)
 
-📱 **Instagram:** [@usernamekamu](https://instagram.com/usernamekamu)
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-</div>
+📷 Instagram: [@username](https://instagram.com/username)
