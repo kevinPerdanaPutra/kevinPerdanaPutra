@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kevin!
 
-### 💻 Informatics Student
+<img src="GIF_PENGENALAN_KAMU" width="400">
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+### 💻 Informatics Student
 
 </div>
 
@@ -15,7 +15,7 @@
 I'm an Informatics student who is currently learning programming,
 algorithms, and software development.
 
-I enjoy learning new technologies and building small projects
+I enjoy learning new technologies and building projects
 while improving my programming skills.
 
 ---
@@ -32,14 +32,22 @@ while improving my programming skills.
 
 ## 🎮 Game
 
-🎮 [Play My Game](LINK_GAME_KAMU)
+<div align="center">
+
+<img src="GIF_GAME_KAMU" width="400">
+
+### 🎮 Check Out My Game
+
+[**▶️ PLAY GAME**](LINK_GAME_KAMU)
+
+</div>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-📧 Email: `emailkamu@gmail.com`
+📧 **Email:** emailkamu@gmail.com
 
-💻 GitHub: [@username](https://github.com/username)
+💻 **GitHub:** [@username](https://github.com/username)
 
-📷 Instagram: [@username](https://instagram.com/username)
+📷 **Instagram:** [@username](https://instagram.com/username)
