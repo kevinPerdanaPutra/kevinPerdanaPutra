@@ -34,10 +34,6 @@ while improving my programming skills.
   <a href="https://github.com/">
     <img src="https://cdn.simpleicons.org/github" width="50" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.simpleicons.org/visualstudiocode" width="50" alt="VS Code"/>
-  </a>
 </p>
 
 ---
@@ -69,9 +65,5 @@ while improving my programming skills.
   &nbsp;&nbsp;
   <a href="https://instagram.com/USERNAME">
     <img src="https://cdn.simpleicons.org/instagram" width="50" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://cdn.simpleicons.org/linkedin" width="50" alt="LinkedIn"/>
   </a>
 </p>
