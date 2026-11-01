@@ -26,24 +26,4 @@
 
 ### 🐍 Snake Game
 
-[▶️ **PLAY GAME**](LINK_GAME_KAMU)
-
 </div>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:emailkamu@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="50" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/USERNAME">
-    <img src="https://cdn.simpleicons.org/github" width="50" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/USERNAME">
-    <img src="https://cdn.simpleicons.org/instagram" width="50" alt="Instagram"/>
-  </a>
-</p>
