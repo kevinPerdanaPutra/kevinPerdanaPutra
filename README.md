@@ -7,21 +7,6 @@
 ### 💻 Informatics Student | Beginner Programmer
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an Informatics student who is currently learning programming,
-algorithms, and software development.
-
-I enjoy learning new technologies and building small projects
-while improving my programming skills.
-
----
-
-## 🛠️ Skills & Tools
-
 <p align="center">
   <a href="https://www.java.com/">
     <img src="https://cdn.simpleicons.org/openjdk" width="50" alt="Java"/>
@@ -35,11 +20,6 @@ while improving my programming skills.
     <img src="https://cdn.simpleicons.org/github" width="50" alt="GitHub"/>
   </a>
 </p>
-
----
-
-## 🎮 Game
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1000">
